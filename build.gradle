@@ -70,7 +70,7 @@ artifactory {
 
 dependencies {
     compile 'io.metamorphic:metamorphic-commons:1.0'
-    compile 'io.metamorphic:analysis-commons:1.0'
+    #compile 'io.metamorphic:analysis-commons:1.0'
     compile 'com.fasterxml.jackson.core:jackson-databind:2.4.6'
     compile 'org.apache.commons:commons-lang3:3.4'
     compile 'commons-logging:commons-logging:1.2'
